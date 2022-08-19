@@ -19,6 +19,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/xia/CLionProjects/CPlus/extendsPolymorphic/Base.cpp" "CMakeFiles/CPlus.dir/extendsPolymorphic/Base.cpp.o" "gcc" "CMakeFiles/CPlus.dir/extendsPolymorphic/Base.cpp.o.d"
   "/Users/xia/CLionProjects/CPlus/extendsPolymorphic/Derived.cpp" "CMakeFiles/CPlus.dir/extendsPolymorphic/Derived.cpp.o" "gcc" "CMakeFiles/CPlus.dir/extendsPolymorphic/Derived.cpp.o.d"
   "/Users/xia/CLionProjects/CPlus/extendsPolymorphic/Derived2.cpp" "CMakeFiles/CPlus.dir/extendsPolymorphic/Derived2.cpp.o" "gcc" "CMakeFiles/CPlus.dir/extendsPolymorphic/Derived2.cpp.o.d"
+  "/Users/xia/CLionProjects/CPlus/extendsPolymorphic/Hero.cpp" "CMakeFiles/CPlus.dir/extendsPolymorphic/Hero.cpp.o" "gcc" "CMakeFiles/CPlus.dir/extendsPolymorphic/Hero.cpp.o.d"
   "/Users/xia/CLionProjects/CPlus/memory/main.cpp" "CMakeFiles/CPlus.dir/memory/main.cpp.o" "gcc" "CMakeFiles/CPlus.dir/memory/main.cpp.o.d"
   "/Users/xia/CLionProjects/CPlus/ptr/PtrTest.cpp" "CMakeFiles/CPlus.dir/ptr/PtrTest.cpp.o" "gcc" "CMakeFiles/CPlus.dir/ptr/PtrTest.cpp.o.d"
   "/Users/xia/CLionProjects/CPlus/ptr/SmallSmartPtr.cpp" "CMakeFiles/CPlus.dir/ptr/SmallSmartPtr.cpp.o" "gcc" "CMakeFiles/CPlus.dir/ptr/SmallSmartPtr.cpp.o.d"

@@ -30,7 +30,7 @@ void testSharedPtr() {
 }
 
 
-int main() {
-    cout << "printT3 end:" << endl;
-    return 0;
-}
+//int main() {
+//    cout << "printT3 end:" << endl;
+//    return 0;
+//}

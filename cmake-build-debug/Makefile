@@ -393,6 +393,30 @@ extendsPolymorphic/Derived2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPlus.dir/build.make CMakeFiles/CPlus.dir/extendsPolymorphic/Derived2.cpp.s
 .PHONY : extendsPolymorphic/Derived2.cpp.s
 
+extendsPolymorphic/Hero.o: extendsPolymorphic/Hero.cpp.o
+.PHONY : extendsPolymorphic/Hero.o
+
+# target to build an object file
+extendsPolymorphic/Hero.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPlus.dir/build.make CMakeFiles/CPlus.dir/extendsPolymorphic/Hero.cpp.o
+.PHONY : extendsPolymorphic/Hero.cpp.o
+
+extendsPolymorphic/Hero.i: extendsPolymorphic/Hero.cpp.i
+.PHONY : extendsPolymorphic/Hero.i
+
+# target to preprocess a source file
+extendsPolymorphic/Hero.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPlus.dir/build.make CMakeFiles/CPlus.dir/extendsPolymorphic/Hero.cpp.i
+.PHONY : extendsPolymorphic/Hero.cpp.i
+
+extendsPolymorphic/Hero.s: extendsPolymorphic/Hero.cpp.s
+.PHONY : extendsPolymorphic/Hero.s
+
+# target to generate assembly for a file
+extendsPolymorphic/Hero.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPlus.dir/build.make CMakeFiles/CPlus.dir/extendsPolymorphic/Hero.cpp.s
+.PHONY : extendsPolymorphic/Hero.cpp.s
+
 memory/main.o: memory/main.cpp.o
 .PHONY : memory/main.o
 
@@ -555,6 +579,9 @@ help:
 	@echo "... extendsPolymorphic/Derived2.o"
 	@echo "... extendsPolymorphic/Derived2.i"
 	@echo "... extendsPolymorphic/Derived2.s"
+	@echo "... extendsPolymorphic/Hero.o"
+	@echo "... extendsPolymorphic/Hero.i"
+	@echo "... extendsPolymorphic/Hero.s"
 	@echo "... memory/main.o"
 	@echo "... memory/main.i"
 	@echo "... memory/main.s"

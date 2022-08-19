@@ -149,6 +149,12 @@
 		<Unit filename="/Users/xia/CLionProjects/CPlus/extendsPolymorphic/Derived2.h">
 			<Option target="CPlus"/>
 		</Unit>
+		<Unit filename="/Users/xia/CLionProjects/CPlus/extendsPolymorphic/Hero.cpp">
+			<Option target="CPlus"/>
+		</Unit>
+		<Unit filename="/Users/xia/CLionProjects/CPlus/extendsPolymorphic/Hero.h">
+			<Option target="CPlus"/>
+		</Unit>
 		<Unit filename="/Users/xia/CLionProjects/CPlus/memory/main.cpp">
 			<Option target="CPlus"/>
 		</Unit>

@@ -16,4 +16,4 @@ add_executable(CPlus
         templates/TemplateTest.cpp templates/TemplateTest.h templates/Stack.cpp templates/Stack.h
         extendsPolymorphic/Base.cpp extendsPolymorphic/Base.h extendsPolymorphic/Derived.cpp extendsPolymorphic/Derived.h extendsPolymorphic/Derived2.cpp extendsPolymorphic/Derived2.h
         cast/CastTest.cpp cast/CastTest.h cast/BaseCast.h
-        memory/main.cpp memory/main.h)
+        memory/main.cpp memory/main.h extendsPolymorphic/Hero.cpp extendsPolymorphic/Hero.h)

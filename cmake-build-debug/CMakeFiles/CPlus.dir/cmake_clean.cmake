@@ -21,6 +21,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/CPlus.dir/extendsPolymorphic/Derived.cpp.o.d"
   "CMakeFiles/CPlus.dir/extendsPolymorphic/Derived2.cpp.o"
   "CMakeFiles/CPlus.dir/extendsPolymorphic/Derived2.cpp.o.d"
+  "CMakeFiles/CPlus.dir/extendsPolymorphic/Hero.cpp.o"
+  "CMakeFiles/CPlus.dir/extendsPolymorphic/Hero.cpp.o.d"
   "CMakeFiles/CPlus.dir/memory/main.cpp.o"
   "CMakeFiles/CPlus.dir/memory/main.cpp.o.d"
   "CMakeFiles/CPlus.dir/ptr/PtrTest.cpp.o"
