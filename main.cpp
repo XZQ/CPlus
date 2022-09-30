@@ -301,6 +301,7 @@ void testFun() {
     int y = 11;
     process(x, y, max);
 }
+
 //https://zhuanlan.zhihu.com/p/168627944
 int (*p)();
 

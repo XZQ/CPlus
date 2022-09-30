@@ -9,8 +9,8 @@
 
 using namespace std;
 
-Dema::Dema(int blood, string name) : Hero(89, "JS"),blood(911),name("Tsla") {
-    cout << "Dmea name is:" << this->name << "   "<<this->blood<< endl;
+Dema::Dema(int blood, string name) : Hero(89, "JS"), blood(911), name("Tsla") {
+    cout << "Dmea name is:" << this->name << "   " << this->blood << endl;
     this->name = name;
     this->blood = blood;
 }
@@ -24,15 +24,7 @@ Dema::~Dema() {
 //        cout << "Dema blood error!\n" << endl;
 //        return;
 //    }
-    cout << "Dmea name is:" << this->name << endl;
-    cout << "Dema blood is :" << this->blood << endl;
 }
 
-
-int main() {
-    Dema d(11, "12");
-
-    return 0;
-}
 
 

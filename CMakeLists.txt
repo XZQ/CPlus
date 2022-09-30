@@ -4,7 +4,7 @@ project(CPlus)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(CPlus
-#        main.cpp
+        #        main.cpp
         base/MyTeacher.cpp base/MyTeacher.h
         base/Construction.cpp base/Construction.h
         base/Date.cpp base/Date.h
@@ -13,7 +13,7 @@ add_executable(CPlus
         base/Person.cpp base/Person.h
         base/FunPoint.cpp base/FunPoint.h
         ptr/PtrTest.cpp ptr/PtrTest.h ptr/SmallSmartPtr.cpp ptr/SmallSmartPtr.h
-        templates/TemplateTest.cpp templates/TemplateTest.h templates/Stack.cpp templates/Stack.h
+        templates/TemplateTest.cpp templates/TemplateTest.h
         extendsPolymorphic/Base.cpp extendsPolymorphic/Base.h extendsPolymorphic/Derived.cpp extendsPolymorphic/Derived.h extendsPolymorphic/Derived2.cpp extendsPolymorphic/Derived2.h
         cast/CastTest.cpp cast/CastTest.h cast/BaseCast.h
         memory/main.cpp memory/main.h extendsPolymorphic/Hero.cpp extendsPolymorphic/Hero.h)

@@ -8,6 +8,7 @@
 //https://juejin.cn/post/7017983182003765284
 
 #include <iostream>
+#include <cstring>
 
 using namespace std;
 
