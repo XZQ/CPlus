@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/workspace/ndk_wp/CPlus/array/CintTest.cpp">
+			<Option target="CPlus"/>
+		</Unit>
 		<Unit filename="D:/workspace/ndk_wp/CPlus/base/Construction.cpp">
 			<Option target="CPlus"/>
 		</Unit>
@@ -123,6 +126,24 @@
 			<Option target="CPlus"/>
 		</Unit>
 		<Unit filename="D:/workspace/ndk_wp/CPlus/cast/CastTest.h">
+			<Option target="CPlus"/>
+		</Unit>
+		<Unit filename="D:/workspace/ndk_wp/CPlus/datastruct/Solution.cpp">
+			<Option target="CPlus"/>
+		</Unit>
+		<Unit filename="D:/workspace/ndk_wp/CPlus/datastruct/Solution.h">
+			<Option target="CPlus"/>
+		</Unit>
+		<Unit filename="D:/workspace/ndk_wp/CPlus/datastruct/stack/Stack.cpp">
+			<Option target="CPlus"/>
+		</Unit>
+		<Unit filename="D:/workspace/ndk_wp/CPlus/datastruct/stack/Stack.h">
+			<Option target="CPlus"/>
+		</Unit>
+		<Unit filename="D:/workspace/ndk_wp/CPlus/datastruct/template/Template.cpp">
+			<Option target="CPlus"/>
+		</Unit>
+		<Unit filename="D:/workspace/ndk_wp/CPlus/datastruct/template/Template.h">
 			<Option target="CPlus"/>
 		</Unit>
 		<Unit filename="D:/workspace/ndk_wp/CPlus/destruct/ObjTest.cpp">

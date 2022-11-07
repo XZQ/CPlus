@@ -128,6 +128,30 @@ CPlus/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus.dir\build.make CMakeFiles/CPlus.dir/build
 .PHONY : CPlus/fast
 
+array/CintTest.obj: array/CintTest.cpp.obj
+.PHONY : array/CintTest.obj
+
+# target to build an object file
+array/CintTest.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus.dir\build.make CMakeFiles/CPlus.dir/array/CintTest.cpp.obj
+.PHONY : array/CintTest.cpp.obj
+
+array/CintTest.i: array/CintTest.cpp.i
+.PHONY : array/CintTest.i
+
+# target to preprocess a source file
+array/CintTest.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus.dir\build.make CMakeFiles/CPlus.dir/array/CintTest.cpp.i
+.PHONY : array/CintTest.cpp.i
+
+array/CintTest.s: array/CintTest.cpp.s
+.PHONY : array/CintTest.s
+
+# target to generate assembly for a file
+array/CintTest.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus.dir\build.make CMakeFiles/CPlus.dir/array/CintTest.cpp.s
+.PHONY : array/CintTest.cpp.s
+
 base/Construction.obj: base/Construction.cpp.obj
 .PHONY : base/Construction.obj
 
@@ -295,6 +319,78 @@ cast/CastTest.s: cast/CastTest.cpp.s
 cast/CastTest.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus.dir\build.make CMakeFiles/CPlus.dir/cast/CastTest.cpp.s
 .PHONY : cast/CastTest.cpp.s
+
+datastruct/Solution.obj: datastruct/Solution.cpp.obj
+.PHONY : datastruct/Solution.obj
+
+# target to build an object file
+datastruct/Solution.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus.dir\build.make CMakeFiles/CPlus.dir/datastruct/Solution.cpp.obj
+.PHONY : datastruct/Solution.cpp.obj
+
+datastruct/Solution.i: datastruct/Solution.cpp.i
+.PHONY : datastruct/Solution.i
+
+# target to preprocess a source file
+datastruct/Solution.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus.dir\build.make CMakeFiles/CPlus.dir/datastruct/Solution.cpp.i
+.PHONY : datastruct/Solution.cpp.i
+
+datastruct/Solution.s: datastruct/Solution.cpp.s
+.PHONY : datastruct/Solution.s
+
+# target to generate assembly for a file
+datastruct/Solution.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus.dir\build.make CMakeFiles/CPlus.dir/datastruct/Solution.cpp.s
+.PHONY : datastruct/Solution.cpp.s
+
+datastruct/stack/Stack.obj: datastruct/stack/Stack.cpp.obj
+.PHONY : datastruct/stack/Stack.obj
+
+# target to build an object file
+datastruct/stack/Stack.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus.dir\build.make CMakeFiles/CPlus.dir/datastruct/stack/Stack.cpp.obj
+.PHONY : datastruct/stack/Stack.cpp.obj
+
+datastruct/stack/Stack.i: datastruct/stack/Stack.cpp.i
+.PHONY : datastruct/stack/Stack.i
+
+# target to preprocess a source file
+datastruct/stack/Stack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus.dir\build.make CMakeFiles/CPlus.dir/datastruct/stack/Stack.cpp.i
+.PHONY : datastruct/stack/Stack.cpp.i
+
+datastruct/stack/Stack.s: datastruct/stack/Stack.cpp.s
+.PHONY : datastruct/stack/Stack.s
+
+# target to generate assembly for a file
+datastruct/stack/Stack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus.dir\build.make CMakeFiles/CPlus.dir/datastruct/stack/Stack.cpp.s
+.PHONY : datastruct/stack/Stack.cpp.s
+
+datastruct/template/Template.obj: datastruct/template/Template.cpp.obj
+.PHONY : datastruct/template/Template.obj
+
+# target to build an object file
+datastruct/template/Template.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus.dir\build.make CMakeFiles/CPlus.dir/datastruct/template/Template.cpp.obj
+.PHONY : datastruct/template/Template.cpp.obj
+
+datastruct/template/Template.i: datastruct/template/Template.cpp.i
+.PHONY : datastruct/template/Template.i
+
+# target to preprocess a source file
+datastruct/template/Template.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus.dir\build.make CMakeFiles/CPlus.dir/datastruct/template/Template.cpp.i
+.PHONY : datastruct/template/Template.cpp.i
+
+datastruct/template/Template.s: datastruct/template/Template.cpp.s
+.PHONY : datastruct/template/Template.s
+
+# target to generate assembly for a file
+datastruct/template/Template.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPlus.dir\build.make CMakeFiles/CPlus.dir/datastruct/template/Template.cpp.s
+.PHONY : datastruct/template/Template.cpp.s
 
 destruct/ObjTest.obj: destruct/ObjTest.cpp.obj
 .PHONY : destruct/ObjTest.obj
@@ -521,6 +617,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... CPlus
+	@echo ... array/CintTest.obj
+	@echo ... array/CintTest.i
+	@echo ... array/CintTest.s
 	@echo ... base/Construction.obj
 	@echo ... base/Construction.i
 	@echo ... base/Construction.s
@@ -542,6 +641,15 @@ help:
 	@echo ... cast/CastTest.obj
 	@echo ... cast/CastTest.i
 	@echo ... cast/CastTest.s
+	@echo ... datastruct/Solution.obj
+	@echo ... datastruct/Solution.i
+	@echo ... datastruct/Solution.s
+	@echo ... datastruct/stack/Stack.obj
+	@echo ... datastruct/stack/Stack.i
+	@echo ... datastruct/stack/Stack.s
+	@echo ... datastruct/template/Template.obj
+	@echo ... datastruct/template/Template.i
+	@echo ... datastruct/template/Template.s
 	@echo ... destruct/ObjTest.obj
 	@echo ... destruct/ObjTest.i
 	@echo ... destruct/ObjTest.s

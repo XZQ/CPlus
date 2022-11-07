@@ -292,6 +292,62 @@ CMakeFiles/CPlus.dir/extendsPolymorphic/Hero.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPlus.dir/extendsPolymorphic/Hero.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\workspace\ndk_wp\CPlus\extendsPolymorphic\Hero.cpp -o CMakeFiles\CPlus.dir\extendsPolymorphic\Hero.cpp.s
 
+CMakeFiles/CPlus.dir/array/CintTest.cpp.obj: CMakeFiles/CPlus.dir/flags.make
+CMakeFiles/CPlus.dir/array/CintTest.cpp.obj: ../array/CintTest.cpp
+CMakeFiles/CPlus.dir/array/CintTest.cpp.obj: CMakeFiles/CPlus.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\workspace\ndk_wp\CPlus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/CPlus.dir/array/CintTest.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPlus.dir/array/CintTest.cpp.obj -MF CMakeFiles\CPlus.dir\array\CintTest.cpp.obj.d -o CMakeFiles\CPlus.dir\array\CintTest.cpp.obj -c D:\workspace\ndk_wp\CPlus\array\CintTest.cpp
+
+CMakeFiles/CPlus.dir/array/CintTest.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPlus.dir/array/CintTest.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\workspace\ndk_wp\CPlus\array\CintTest.cpp > CMakeFiles\CPlus.dir\array\CintTest.cpp.i
+
+CMakeFiles/CPlus.dir/array/CintTest.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPlus.dir/array/CintTest.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\workspace\ndk_wp\CPlus\array\CintTest.cpp -o CMakeFiles\CPlus.dir\array\CintTest.cpp.s
+
+CMakeFiles/CPlus.dir/datastruct/Solution.cpp.obj: CMakeFiles/CPlus.dir/flags.make
+CMakeFiles/CPlus.dir/datastruct/Solution.cpp.obj: ../datastruct/Solution.cpp
+CMakeFiles/CPlus.dir/datastruct/Solution.cpp.obj: CMakeFiles/CPlus.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\workspace\ndk_wp\CPlus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/CPlus.dir/datastruct/Solution.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPlus.dir/datastruct/Solution.cpp.obj -MF CMakeFiles\CPlus.dir\datastruct\Solution.cpp.obj.d -o CMakeFiles\CPlus.dir\datastruct\Solution.cpp.obj -c D:\workspace\ndk_wp\CPlus\datastruct\Solution.cpp
+
+CMakeFiles/CPlus.dir/datastruct/Solution.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPlus.dir/datastruct/Solution.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\workspace\ndk_wp\CPlus\datastruct\Solution.cpp > CMakeFiles\CPlus.dir\datastruct\Solution.cpp.i
+
+CMakeFiles/CPlus.dir/datastruct/Solution.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPlus.dir/datastruct/Solution.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\workspace\ndk_wp\CPlus\datastruct\Solution.cpp -o CMakeFiles\CPlus.dir\datastruct\Solution.cpp.s
+
+CMakeFiles/CPlus.dir/datastruct/template/Template.cpp.obj: CMakeFiles/CPlus.dir/flags.make
+CMakeFiles/CPlus.dir/datastruct/template/Template.cpp.obj: ../datastruct/template/Template.cpp
+CMakeFiles/CPlus.dir/datastruct/template/Template.cpp.obj: CMakeFiles/CPlus.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\workspace\ndk_wp\CPlus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/CPlus.dir/datastruct/template/Template.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPlus.dir/datastruct/template/Template.cpp.obj -MF CMakeFiles\CPlus.dir\datastruct\template\Template.cpp.obj.d -o CMakeFiles\CPlus.dir\datastruct\template\Template.cpp.obj -c D:\workspace\ndk_wp\CPlus\datastruct\template\Template.cpp
+
+CMakeFiles/CPlus.dir/datastruct/template/Template.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPlus.dir/datastruct/template/Template.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\workspace\ndk_wp\CPlus\datastruct\template\Template.cpp > CMakeFiles\CPlus.dir\datastruct\template\Template.cpp.i
+
+CMakeFiles/CPlus.dir/datastruct/template/Template.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPlus.dir/datastruct/template/Template.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\workspace\ndk_wp\CPlus\datastruct\template\Template.cpp -o CMakeFiles\CPlus.dir\datastruct\template\Template.cpp.s
+
+CMakeFiles/CPlus.dir/datastruct/stack/Stack.cpp.obj: CMakeFiles/CPlus.dir/flags.make
+CMakeFiles/CPlus.dir/datastruct/stack/Stack.cpp.obj: ../datastruct/stack/Stack.cpp
+CMakeFiles/CPlus.dir/datastruct/stack/Stack.cpp.obj: CMakeFiles/CPlus.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\workspace\ndk_wp\CPlus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/CPlus.dir/datastruct/stack/Stack.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPlus.dir/datastruct/stack/Stack.cpp.obj -MF CMakeFiles\CPlus.dir\datastruct\stack\Stack.cpp.obj.d -o CMakeFiles\CPlus.dir\datastruct\stack\Stack.cpp.obj -c D:\workspace\ndk_wp\CPlus\datastruct\stack\Stack.cpp
+
+CMakeFiles/CPlus.dir/datastruct/stack/Stack.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPlus.dir/datastruct/stack/Stack.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\workspace\ndk_wp\CPlus\datastruct\stack\Stack.cpp > CMakeFiles\CPlus.dir\datastruct\stack\Stack.cpp.i
+
+CMakeFiles/CPlus.dir/datastruct/stack/Stack.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPlus.dir/datastruct/stack/Stack.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\workspace\ndk_wp\CPlus\datastruct\stack\Stack.cpp -o CMakeFiles\CPlus.dir\datastruct\stack\Stack.cpp.s
+
 # Object files for target CPlus
 CPlus_OBJECTS = \
 "CMakeFiles/CPlus.dir/base/MyTeacher.cpp.obj" \
@@ -309,7 +365,11 @@ CPlus_OBJECTS = \
 "CMakeFiles/CPlus.dir/extendsPolymorphic/Derived2.cpp.obj" \
 "CMakeFiles/CPlus.dir/cast/CastTest.cpp.obj" \
 "CMakeFiles/CPlus.dir/memory/Main.cpp.obj" \
-"CMakeFiles/CPlus.dir/extendsPolymorphic/Hero.cpp.obj"
+"CMakeFiles/CPlus.dir/extendsPolymorphic/Hero.cpp.obj" \
+"CMakeFiles/CPlus.dir/array/CintTest.cpp.obj" \
+"CMakeFiles/CPlus.dir/datastruct/Solution.cpp.obj" \
+"CMakeFiles/CPlus.dir/datastruct/template/Template.cpp.obj" \
+"CMakeFiles/CPlus.dir/datastruct/stack/Stack.cpp.obj"
 
 # External object files for target CPlus
 CPlus_EXTERNAL_OBJECTS =
@@ -330,11 +390,15 @@ CPlus.exe: CMakeFiles/CPlus.dir/extendsPolymorphic/Derived2.cpp.obj
 CPlus.exe: CMakeFiles/CPlus.dir/cast/CastTest.cpp.obj
 CPlus.exe: CMakeFiles/CPlus.dir/memory/Main.cpp.obj
 CPlus.exe: CMakeFiles/CPlus.dir/extendsPolymorphic/Hero.cpp.obj
+CPlus.exe: CMakeFiles/CPlus.dir/array/CintTest.cpp.obj
+CPlus.exe: CMakeFiles/CPlus.dir/datastruct/Solution.cpp.obj
+CPlus.exe: CMakeFiles/CPlus.dir/datastruct/template/Template.cpp.obj
+CPlus.exe: CMakeFiles/CPlus.dir/datastruct/stack/Stack.cpp.obj
 CPlus.exe: CMakeFiles/CPlus.dir/build.make
 CPlus.exe: CMakeFiles/CPlus.dir/linklibs.rsp
 CPlus.exe: CMakeFiles/CPlus.dir/objects1.rsp
 CPlus.exe: CMakeFiles/CPlus.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\workspace\ndk_wp\CPlus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking CXX executable CPlus.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\workspace\ndk_wp\CPlus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Linking CXX executable CPlus.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\CPlus.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

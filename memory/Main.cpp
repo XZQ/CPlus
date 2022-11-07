@@ -40,7 +40,6 @@ static int staticGlobalVar = 1;// 数据段(全局数据，静态数据)
 void testStackHeapDistribution() {
     static int staticVar = 1;// 数据段(全局数据，静态数据)
     char char2[] = "abcd"; // 代码段
-    char *pChar3 = "abcd"; // 代码段
     int *prt1 = (int *) malloc(sizeof(int));// 堆(右侧)
     int *prt2 = (int *) calloc(4, sizeof(int));// 堆(右侧)
     int *prt3 = (int *) realloc(prt2, sizeof(int) * 4); // 堆(右侧)

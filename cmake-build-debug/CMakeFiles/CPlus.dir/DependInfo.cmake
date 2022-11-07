@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "D:/workspace/ndk_wp/CPlus/array/CintTest.cpp" "CMakeFiles/CPlus.dir/array/CintTest.cpp.obj" "gcc" "CMakeFiles/CPlus.dir/array/CintTest.cpp.obj.d"
   "D:/workspace/ndk_wp/CPlus/base/Construction.cpp" "CMakeFiles/CPlus.dir/base/Construction.cpp.obj" "gcc" "CMakeFiles/CPlus.dir/base/Construction.cpp.obj.d"
   "D:/workspace/ndk_wp/CPlus/base/Date.cpp" "CMakeFiles/CPlus.dir/base/Date.cpp.obj" "gcc" "CMakeFiles/CPlus.dir/base/Date.cpp.obj.d"
   "D:/workspace/ndk_wp/CPlus/base/FunPoint.cpp" "CMakeFiles/CPlus.dir/base/FunPoint.cpp.obj" "gcc" "CMakeFiles/CPlus.dir/base/FunPoint.cpp.obj.d"
@@ -15,6 +16,9 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "D:/workspace/ndk_wp/CPlus/base/Person.cpp" "CMakeFiles/CPlus.dir/base/Person.cpp.obj" "gcc" "CMakeFiles/CPlus.dir/base/Person.cpp.obj.d"
   "D:/workspace/ndk_wp/CPlus/base/Student.cpp" "CMakeFiles/CPlus.dir/base/Student.cpp.obj" "gcc" "CMakeFiles/CPlus.dir/base/Student.cpp.obj.d"
   "D:/workspace/ndk_wp/CPlus/cast/CastTest.cpp" "CMakeFiles/CPlus.dir/cast/CastTest.cpp.obj" "gcc" "CMakeFiles/CPlus.dir/cast/CastTest.cpp.obj.d"
+  "D:/workspace/ndk_wp/CPlus/datastruct/Solution.cpp" "CMakeFiles/CPlus.dir/datastruct/Solution.cpp.obj" "gcc" "CMakeFiles/CPlus.dir/datastruct/Solution.cpp.obj.d"
+  "D:/workspace/ndk_wp/CPlus/datastruct/stack/Stack.cpp" "CMakeFiles/CPlus.dir/datastruct/stack/Stack.cpp.obj" "gcc" "CMakeFiles/CPlus.dir/datastruct/stack/Stack.cpp.obj.d"
+  "D:/workspace/ndk_wp/CPlus/datastruct/template/Template.cpp" "CMakeFiles/CPlus.dir/datastruct/template/Template.cpp.obj" "gcc" "CMakeFiles/CPlus.dir/datastruct/template/Template.cpp.obj.d"
   "D:/workspace/ndk_wp/CPlus/destruct/ObjTest.cpp" "CMakeFiles/CPlus.dir/destruct/ObjTest.cpp.obj" "gcc" "CMakeFiles/CPlus.dir/destruct/ObjTest.cpp.obj.d"
   "D:/workspace/ndk_wp/CPlus/extendsPolymorphic/Base.cpp" "CMakeFiles/CPlus.dir/extendsPolymorphic/Base.cpp.obj" "gcc" "CMakeFiles/CPlus.dir/extendsPolymorphic/Base.cpp.obj.d"
   "D:/workspace/ndk_wp/CPlus/extendsPolymorphic/Derived.cpp" "CMakeFiles/CPlus.dir/extendsPolymorphic/Derived.cpp.obj" "gcc" "CMakeFiles/CPlus.dir/extendsPolymorphic/Derived.cpp.obj.d"
