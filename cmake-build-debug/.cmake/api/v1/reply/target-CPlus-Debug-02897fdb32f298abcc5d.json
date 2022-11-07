@@ -2,10 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "CPlus.exe"
-		},
-		{
-			"path" : "CPlus.pdb"
+			"path" : "CPlus"
 		}
 	],
 	"backtrace" : 1,
@@ -38,7 +35,10 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g"
+					"fragment" : "-g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk"
+				},
+				{
+					"fragment" : "-std=gnu++14"
 				}
 			],
 			"language" : "CXX",
@@ -87,16 +87,12 @@
 			{
 				"fragment" : "",
 				"role" : "flags"
-			},
-			{
-				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
-				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
 	},
 	"name" : "CPlus",
-	"nameOnDisk" : "CPlus.exe",
+	"nameOnDisk" : "CPlus",
 	"paths" : 
 	{
 		"build" : ".",
@@ -321,12 +317,12 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "memory/Main.cpp",
+			"path" : "memory/main.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "memory/Main.h",
+			"path" : "memory/main.h",
 			"sourceGroupIndex" : 1
 		},
 		{
