@@ -43,6 +43,5 @@ void openFile() {
 }
 
 //int main() {
-//    openFile();
 //    return 0;
 //}

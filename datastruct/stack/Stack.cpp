@@ -10,7 +10,7 @@ using namespace std;
 // https://zhuanlan.zhihu.com/p/379491696
 
 
-int main() {
+//int main() {
 
 //    Stack<int> s(20);
 //    cout << "ÊÇ·ñÎª¿ÕÕ»" << s.isEmpty() << endl;
@@ -28,4 +28,4 @@ int main() {
 ////    cout << "Õ»¶¥ÔªËØ" << s.getTop() << endl;
 //
 
-}
+//}
